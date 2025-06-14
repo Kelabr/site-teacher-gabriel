@@ -338,7 +338,7 @@ export default function Home() {
         <div className="container mx-auto px-4 text-center">
           <p>© {new Date().getFullYear()} Teacher Gabriel. Todos os direitos reservados.</p>
           <div className="mt-4 flex justify-center">
-            <a href="https://instagram.com" className="text-white hover:text-brightRed mx-2">
+            <a href="https://www.instagram.com/teacher.gabrielribant?igsh=MWVmNmo2bDhhNnEwMw==" className="text-white hover:text-brightRed mx-2">
               <Instagram size={24} />
               <span className="sr-only">Instagram</span>
             </a>
